@@ -47,6 +47,7 @@ public class promediarNota {
 	}
 //prueva de sibida
 	//prueva de subida dos
+	//prueva de subida tress
 	/**
 	 * Create the application.
 	 */
