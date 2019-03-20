@@ -28,7 +28,7 @@ public class promediarNota {
 	private JTextField txttp3;
 	private JTextField txtparcial;
 	private JTextField txtpromedio;
-	private JButton btnCalcular;
+	private JButton btnCalcular;    // no cumplia con el principio de encapsulamiento
 
 	/**
 	 * Launch the application.
