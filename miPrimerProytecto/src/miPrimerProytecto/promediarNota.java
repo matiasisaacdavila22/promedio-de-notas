@@ -45,7 +45,7 @@ public class promediarNota {
 			}
 		});
 	}
-
+//prueva de sibida
 	/**
 	 * Create the application.
 	 */
