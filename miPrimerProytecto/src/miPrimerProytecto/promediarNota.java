@@ -28,7 +28,7 @@ public class promediarNota {
 	private JTextField txttp3;
 	private JTextField txtparcial;
 	private JTextField txtpromedio;
-	JButton btnCalcular;
+	private JButton btnCalcular;
 
 	/**
 	 * Launch the application.
